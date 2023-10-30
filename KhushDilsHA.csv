@@ -1,0 +1,28 @@
+Batting Position,Venue City,Ground,Opposite Team,Pitch,Weather,Avg in last 5 matches,Four in Last 5 Matches,Sixes in Last 5 Matches,Score in Last 5 Matches,Score Type
+six,Australia,Perth,Australia,Bouncy,Cloudy,32,five,four,160,High
+five,Rawalpindi,Rawalpindi,Zimbabwe,Dry&Dusty,Clear Skies,26,one,three,130,High
+four,Rawalpindi,Rawalpindi,Zimbabwe,Dry&Dusty,Clear Skies,22,two,five,106,High
+four,Rawalpindi,Rawalpindi,Zimbabwe,Dry&Dusty,Drizzle,26,three,four,130,High
+six,New Zeeland,Auckland,New Zeeland,Lush Green,Thunder strom,31,four,five,153,High
+six,New Zeeland,Hamilton,New Zeeland,Bouncy,Rain,16,one,two,78,Meduim
+four,New Zeeland,Napier,New Zeeland,bouncy,Rain,10,eight,one,52,Meduim
+six,Lahore,Lahore,South Africa,Dry&Dusty,High Humidity,134,four,two,200,High
+six,Lahore,Lahore,South Africa,Even Bounce,Mist,34,ten,five,167,High
+six,Dhaka,Mirpur,Bangladesh,Bouncy,Extream Heat,10,three,three,48,Low
+five,Dhaka,Mirpur,Bangladesh,Bouncy,Overcast Sky,10,six,one,50,Meduim
+six,Dhaka,Mirpur,Bangladesh,Bouncy,Clear sky,16,three,one,79,Meduim
+five,Lahore,Lahore,Australia,Dry&Dusty,Rain,30,eight,two,149,High
+five,Dubai,Dubai(DSC),India,Flat & Dry,Rain,10,three,five,52,Meduim
+four,UAE,Sharjah,Hong Kong,Bouncy,Extream Heat,11,ten,five,55,Meduim
+five,Dubai,Dubai(DSC),India,Flat & Dry,Rain,28,three,zero,141,High
+eight,UAE,Sharjah,Afghanistan,Bouncy,Rain,30,two,five,149,High
+five,Dubai,Dubai(DSC),Sri Lanka,Flat & Dry,Extream Heat,16,three,six,78,Meduim
+six,Dubai,Dubai(DSC),Sri Lanka,Flat & Dry,Thunder strom,21,four,four,106,High
+seven,Karchi,Karachi,England,Diverse,Clear sky,20,five,three,102,High
+five,Karchi,Karachi,England,Diverse,Thunder strom,32,nine,one,160,High
+six,Karchi,Karachi,England,Diverse,Cloudy,33,five,two,167,High
+four,Karchi,Karachi,England,Diverse,Cloudy,34,eight,four,171,High
+five,Lahore,Lahore,England,Dry&Dusty,Rain,28,two,one,142,High
+six,China,Hangzhou,Hong Kong,General pitch,Extream Heat,22,three,one,111,High
+six,China,Hangzhou,Afghanistan,General pitch,Clear sky,23,five,six,115,High
+two,China,Hangzhou,Bangladesh,General pitch,Cloudy,19,ten,one,94,Meduim
